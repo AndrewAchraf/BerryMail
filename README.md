@@ -1,4 +1,12 @@
-# @berry.com
+# BerrMail
+BerryMail is a web-based email client that allows you to send, receive, and manage emails from any device, anywhere!
+
+💡 Key Features:
+✅ Inbox Organization – Sort emails into folders, labels & filters 📂
+✅ Threaded Conversations – Keep related messages grouped 📬
+✅ Advanced Search – Find emails in seconds 🔍
+✅ Attachment Support – Preview & send files easily 📎
+
 ## Contributers:
 -  [Armaritto](https://github.com/Armaritto)
 -  [SantiagoMontag](https://github.com/SantiagoMontag)
