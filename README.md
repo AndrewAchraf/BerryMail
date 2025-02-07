@@ -1,4 +1,4 @@
-# BerrMail
+# BerryMail
 BerryMail is a web-based email client that allows you to send, receive, and manage emails from any device, anywhere!
 
 💡 Key Features:
